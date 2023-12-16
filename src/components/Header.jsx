@@ -6,7 +6,7 @@ const Header = () => {
             <div className='container'>
                 <h1>
                     <Link to='/' className='text-light'>
-                        CRUD Redux
+                        Redux CRUD
                     </Link>
                 </h1>
             </div>

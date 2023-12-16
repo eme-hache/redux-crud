@@ -12,18 +12,13 @@
     },
     {
       "name": "Cafe",
-      "price": 70,
+      "price": 50,
       "id": 6
     },
     {
       "name": "Taco",
       "price": 50,
       "id": 7
-    },
-    {
-      "name": "Té",
-      "price": 30,
-      "id": 8
     },
     {
       "name": "Fruta",
